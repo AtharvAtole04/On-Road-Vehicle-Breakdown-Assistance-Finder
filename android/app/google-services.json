@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "701571141604",
+    "project_id": "compus-eng",
+    "storage_bucket": "compus-eng.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701571141604:android:3d3b36e361d0ade1b4c1f1",
+        "android_client_info": {
+          "package_name": "com.example.compus_eng"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5dsotrbOrxCLHrwVMcnsfEUmSbAuz9Lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701571141604:android:6ea61f461a7293b5b4c1f1",
+        "android_client_info": {
+          "package_name": "com.example.road_side_assistent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5dsotrbOrxCLHrwVMcnsfEUmSbAuz9Lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701571141604:android:66ae9df7249964d3b4c1f1",
+        "android_client_info": {
+          "package_name": "com.vegbucket.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5dsotrbOrxCLHrwVMcnsfEUmSbAuz9Lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
